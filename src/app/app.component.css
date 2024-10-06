@@ -1,0 +1,32 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.sensor-data {
+  margin-bottom: 20px;
+}
+
+.data-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.control-panel {
+  margin-top: 20px;
+}
+
+.control-panel label {
+  margin-right: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
